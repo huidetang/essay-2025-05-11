@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
-@import '../common/contents-common';
+@use '../common/contents-common';
+@use "../variable/a5-yoko-no-bleed";
 
 /* 画像＋キャプション */
 div.image {
